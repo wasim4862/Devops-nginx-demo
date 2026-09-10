@@ -5,7 +5,7 @@
 # This will install nginx
 
 
-
+# you will see how to install package
 sudo apt-get update -y
 sudo apt install nginx -y
 
